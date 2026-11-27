@@ -3532,5 +3532,23 @@
         "page_name": "PressView Lens"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_cantalo\u2026_20260926031626.mp4",
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook",
+        "page_id": "1417861724738756",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":464,\"fbtrace_id\":\"AVAivyMVftj1iCUZUM9CIQX\"}}",
+        "page_name": "PressView Lens"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story",
+        "page_id": "1417861724738756",
+        "page_name": "PressView Lens"
+      }
+    ]
   }
 ]
