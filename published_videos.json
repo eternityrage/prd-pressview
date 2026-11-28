@@ -3586,5 +3586,23 @@
         "page_name": "PressView Lens"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_carrots_20260926031623.mp4",
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook",
+        "page_id": "1417861724738756",
+        "error": "{\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"A5GnekdNuLNmVQtbYB7bghJ\"}}",
+        "page_name": "PressView Lens"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story",
+        "page_id": "1417861724738756",
+        "page_name": "PressView Lens"
+      }
+    ]
   }
 ]
